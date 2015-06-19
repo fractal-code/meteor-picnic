@@ -2,7 +2,7 @@
 
 Package.describe({
     name: 'gliese:picnic',
-    version: '0.0.1',
+    version: '0.1.0',
     summary: 'Picnic CSS library wrapped for meteor',
     git: 'https://github.com/gliese-technology/picnic'
 });
