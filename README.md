@@ -1,5 +1,5 @@
 # picnic
-Picnic CSS wrapped for Meteor
+Picnic CSS wrapped for Meteor (currently up to date with version `4.0.1`).
 
 ## Installation
 
