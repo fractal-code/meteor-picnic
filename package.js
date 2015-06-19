@@ -1,7 +1,7 @@
 /*jslint white:true */
 
 Package.describe({
-    name: 'gliese-technology:picnic',
+    name: 'gliese:picnic',
     version: '0.0.1',
     summary: 'Picnic CSS library wrapped for meteor',
     git: 'https://github.com/gliese-technology/picnic'

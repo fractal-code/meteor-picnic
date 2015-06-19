@@ -5,7 +5,7 @@ Picnic CSS wrapped for Meteor (currently up to date with version `4.0.1`).
 
 ```
 meteor add fourseven:scss
-meteor add gliese-technology:picnic
+meteor add gliese:picnic
 ```
 
 Then in your app's `scss.json` file:
@@ -13,7 +13,7 @@ Then in your app's `scss.json` file:
 ```
 {
     "includePaths": [
-        ".meteor/local/build/programs/server/assets/packages/gliese-technology_picnic/"
+        ".meteor/local/build/programs/server/assets/packages/gliese_picnic/"
     ]
 }
 ```
