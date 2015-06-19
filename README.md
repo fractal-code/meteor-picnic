@@ -13,7 +13,7 @@ Then in your app's `scss.json` file:
 ```
 {
     "includePaths": [
-        ".meteor/local/build/programs/server/assets/packages/gliese_picnic/"
+        ".meteor/local/build/programs/server/assets/packages/gliese_picnic"
     ]
 }
 ```
