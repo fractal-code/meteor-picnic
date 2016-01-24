@@ -1,4 +1,4 @@
-# picnic
+# THIS PACKAGE IS NO LONGER MAINTAINED
 Picnic CSS wrapped for Meteor (currently up to date with version `4.0.1`).
 
 ## Installation
@@ -6,16 +6,6 @@ Picnic CSS wrapped for Meteor (currently up to date with version `4.0.1`).
 ```
 meteor add fourseven:scss
 meteor add gliese:picnic
-```
-
-Then in your app's `scss.json` file:
-
-```
-{
-    "includePaths": [
-        ".meteor/local/build/programs/server/assets/packages/gliese_picnic"
-    ]
-}
 ```
 
 ## Docs
